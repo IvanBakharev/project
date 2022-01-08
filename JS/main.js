@@ -1,0 +1,1 @@
+const paraf = document.getElementById('par');
