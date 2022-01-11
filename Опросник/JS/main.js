@@ -15,3 +15,5 @@ const a = prompt('Один из последних просмотренных ф
 
       personalMovieDb.movies[a] = b;
       personalMovieDb.movies[c] = d;
+
+      console.log(personalMovieDb);
